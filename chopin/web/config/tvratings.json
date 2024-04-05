@@ -1,0 +1,25 @@
+{
+	"title": "menuTVRestrictions",
+	"ratings": [{
+		"code": "TVY",
+		"category": "GENERAL"
+	}, {
+		"code": "TVY7",
+		"category": "FAMILY"
+	}, {
+		"code": "TVG",
+		"category": "FAMILY"
+	}, {
+		"code": "TVPG",
+		"category": "FAMILY"
+	}, {
+		"code": "TV14",
+		"category": "TEEN"
+	}, {
+		"code": "TVMA",
+		"category": "MATURE"
+	},{
+		"code": "TVA",
+		"category": "MATURE"
+	}]
+}

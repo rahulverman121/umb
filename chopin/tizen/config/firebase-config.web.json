@@ -1,0 +1,12 @@
+{
+	"firebaseWebconfig":{
+		"apiKey": "AIzaSyC_dFjo-Wvv_CZl05apK2gy59d5l401K0k",
+		"authDomain": "q1sitstaging-new.firebaseapp.com",
+		"databaseURL": "https://q1sitstaging-new.firebaseio.com",
+		"projectId": "q1sitstaging-new",
+		"storageBucket": "q1sitstaging-new.appspot.com",
+		"messagingSenderId": "159381975551",
+		"appId": "1:159381975551:web:ef9f7cac469876011b37ca",
+		"measurementId": "G-6D1F5VQLKP"
+	}
+}
