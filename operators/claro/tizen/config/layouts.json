@@ -1,0 +1,848 @@
+{
+    "tablet": {
+        "magazine_0": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "highlight": {
+                "scale": 1.2
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 500,
+                        "height": 375,
+                        "left": 0,
+                        "top": 0,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": true,
+                        "size": 2
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 243,
+                        "height": 183,
+                        "left": 509,
+                        "top": 0,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": false,
+                        "size": 2
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 243,
+                        "height": 183,
+                        "left": 509,
+                        "top": 192,
+                        "size": 2,
+                        "isTopPosition": false,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 243,
+                        "height": 183,
+                        "left": 761,
+                        "top": 0,
+                        "size": 2,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 243,
+                        "height": 183,
+                        "left": 761,
+                        "top": 192,
+                        "size": 2,
+                        "isTopPosition": false,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                }
+            ]
+        },
+        "magazine_1": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "highlight": {
+                "scale": 1.2
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 250,
+                        "height": 375,
+                        "left": 0,
+                        "top": 0,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": true,
+                        "size": 1
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 244,
+                        "height": 183,
+                        "left": 259,
+                        "top": 0,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": false,
+                        "size": 2
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 325,
+                        "height": 183,
+                        "left": 259,
+                        "top": 192,
+                        "size": 3,
+                        "isTopPosition": false,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 325,
+                        "height": 183,
+                        "left": 512,
+                        "top": 0,
+                        "size": 3,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 244,
+                        "height": 183,
+                        "left": 593,
+                        "top": 192,
+                        "size": 2,
+                        "isTopPosition": false,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                }
+            ]
+        },
+        "magazine_2": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "heightLight": {
+                "scale": 1.2
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 243,
+                        "height": 183,
+                        "left": 0,
+                        "top": 0,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": false,
+                        "size": 2
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 243,
+                        "height": 183,
+                        "left": 0,
+                        "top": 192,
+                        "isTopPosition": false,
+                        "isFullDimensionTile": false,
+                        "size": 2
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 325,
+                        "height": 183,
+                        "left": 252,
+                        "top": 0,
+                        "size": 3,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 325,
+                        "height": 183,
+                        "left": 252,
+                        "top": 192,
+                        "size": 3,
+                        "isTopPosition": false,
+                        "isFullDimensionTile": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 250,
+                        "height": 371,
+                        "left": 586,
+                        "top": 0,
+                        "size": 1,
+                        "isTopPosition": true,
+                        "isFullDimensionTile": true
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                }
+            ]
+        },
+        "snap_carousal": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "heightLight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 666,
+                        "height": 375
+                    }
+                }
+            ]
+        },
+        "magazine_3": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "heightLight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 250,
+						"height": 375,
+						"top":0,
+						"left":0
+                    }
+                }
+            ]
+        },
+        "content_strip_2x3": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "heightLight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 126,
+                        "height": 189
+                    }
+                }
+            ]
+        },
+        "content_strip_4x3": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "heightLight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 180,
+                        "height": 135
+                    }
+                }
+            ]
+        },
+        "content_strip_2x3_4x3": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "highlight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 126,
+                        "height": 189
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 252,
+                        "height": 189
+                    }
+                }
+            ]
+        },
+        "content_strip_16x9": {
+            "header": {
+                "fontSize": 15,
+                "fontWeight": "normal"
+            },
+            "gap": 9,
+            "heightLight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 208,
+                        "height": 117
+                    }
+                }
+            ]
+        }
+    },
+    "mobile": {
+        "magazine_0": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 8,
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "highlight": {
+                "scale": 1.2
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 390,
+                        "height": 219,
+                        "size": "16*9",
+                        "left": 0,
+                        "top": 0,
+                        "isFullDimension": true,
+                        "isTopPosition": true
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3",
+                        "left": 0,
+                        "top": 227,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3",
+                        "left": 199,
+                        "top": 227,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 286,
+                        "size": "2*3*",
+                        "left": 0,
+                        "top": 378,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3",
+                        "left": 199,
+                        "top": 378,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3",
+                        "left": 0,
+                        "top": 672,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 286,
+                        "size": "2*3*",
+                        "left": 199,
+                        "top": 529,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                }
+            ]
+        },
+        "magazine_1": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 8,
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "highlight": {
+                "scale": 1.2
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "14*3",
+                        "left": 0,
+                        "top": 0,
+                        "isFullDimension": true,
+                        "isTopPosition": true
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3",
+                        "left": 199,
+                        "top": 0,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 390,
+                        "height": 219,
+                        "size": "16*9",
+                        "left": 0,
+                        "top": 151,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 286,
+                        "size": "2*3*",
+                        "left": 0,
+                        "top": 378,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 286,
+                        "size": "2*3",
+                        "left": 199,
+                        "top": 378,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3",
+                        "left": 0,
+                        "top": 672,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 191,
+                        "height": 143,
+                        "size": "4*3*",
+                        "left": 199,
+                        "top": 672,
+                        "isFullDimension": false,
+                        "isTopPosition": false
+                    },
+                    "text": {
+                        "fontSize": 28,
+                        "width": 200,
+                        "height": 30
+                    }
+                }
+            ]
+        },
+        "snap_carousal": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 20,
+            "heightLight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 300,
+                        "height": 449
+                    }
+                }
+            ]
+        },
+        "content_strip_2x3": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 10,
+            "highlight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 120,
+                        "height": 180
+                    }
+                }
+            ]
+        },
+        "content_strip_4x3": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 10,
+            "highlight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 184,
+                        "height": 138
+                    }
+                }
+            ]
+        },
+        "content_strip_2x3_4x3": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 10,
+            "highlight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 120,
+                        "height": 180
+                    }
+                },
+                {
+                    "poster": {
+                        "width": 240,
+                        "height": 180
+                    }
+                }
+            ]
+        },
+        "content_strip_16x9": {
+            "header": {
+                "fontSize": 12,
+                "fontWeight": "normal"
+            },
+            "gap": 10,
+            "highlight": {
+                "scale": 1.2
+            },
+            "render": {
+                "initialItems": 10,
+                "aheadItems": 10
+            },
+            "slots": [
+                {
+                    "poster": {
+                        "width": 185,
+                        "height": 105
+                    }
+                }
+            ]
+        },
+      	"content_strip_1x3": {
+      		"header": {
+      			"fontSize": 12,
+      			"fontWeight": "normal"
+      		},
+      		"gap": 10,
+      		"heightLight": {
+      			"scale": 1.2
+      		},
+      		"render": {
+      			"initialItems": 10,
+      			"aheadItems": 10
+      		},
+      		"slots": [
+      			{
+      				"poster": {
+      					"width": 90,
+      					"height": 270
+      				}
+      			}
+      		],
+      		"isDynamicFontSize": true
+      	},
+      	"billboard": {
+      		"header": {
+      			"fontSize": 12,
+      			"fontWeight": "normal"
+      		},
+      		"gap": 10,
+      		"heightLight": {
+      			"scale": 1.2
+      		},
+      		"render": {
+      			"initialItems": 10,
+      			"aheadItems": 10
+      		},
+      		"slots": [
+      			{
+      				"poster": {
+      					"width": 740,
+      					"height": 105
+      				}
+      			}
+      		],
+      		"isDynamicFontSize": true
+      	}
+    }
+}

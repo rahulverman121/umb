@@ -1,0 +1,472 @@
+{
+	"locale": "en_GB",
+	"helpURL": "https://dtv.nagra.com",
+	"accountURL": "https://dtv.nagra.com",
+	"forgotUsername": "https://dtv.nagra.com/why-nagra",
+	"termsAndConditionsLocale": {
+		"en": "https://dtv.nagra.com/why-nagra",
+		"fr": "https://dtv.nagra.com/why-nagra",
+		"es": "https://dtv.nagra.com/why-nagra",
+		"zh": "https://dtv.nagra.com/why-nagra",
+		"ar": "https://dtv.nagra.com/why-nagra"
+	},
+	"privacyPolicyLocale": {
+		"en": "https://dtv.nagra.com/why-nagra",
+		"fr": "https://dtv.nagra.com/why-nagra",
+		"es": "https://dtv.nagra.com/why-nagra",
+		"zh": "https://dtv.nagra.com/why-nagra",
+		"ar": "https://dtv.nagra.com/why-nagra"
+	},
+	"helpLocale": {
+		"en": "http://www.telearabiamax.tv/en/help",
+		"fr": "http://www.telearabiamax.tv/fr/help",
+		"es": "http://www.telearabiamax.tv/en/help",
+		"zh": "http://www.telearabiamax.tv/en/help",
+		"ar": "http://www.telearabiamax.tv/ar/help"
+
+	},
+	"contentDelivery": {
+		"railTemplateViews": "/contentdelivery/v1/templateviews",
+		"presentationTemplate": "/contentdelivery/v1/presentationTemplate",
+		"genericContent": "/contentdelivery/v1/genericContent",
+		"personalizedContent": "/contentdelivery/v1/personalizedContent",
+		"railTemplateViewsV2": "/contentdelivery/v2/templateviews"
+	},
+	"cdvrUrlConfig": {
+		"deleteSingleRecording": "/cdvr/v1/recordings",
+		"deleteSeriesRecording": "/cdvr/v1/seriesrecordings",
+		"fetchingRecordingBySeriesId": "/cdvr/v1/recordings",
+		"urlToFetchRecordingAndRecordedContents": "/cdvr/v2/recordings",
+		"urlToFetchScheduledAndFailedContents": "/cdvr/v2/recordings",
+		"urlToFetchAllCloudRecordings": "/cdvr/v2/recordings",
+		"urlToScheduleSingleRecording": "/cdvr/v1/recordings",
+		"urlToScheduleSeriesRecordings": "/cdvr/v1/seriesrecordings",
+		"quotaUrl": "/cdvr/v1/",
+		"urlToFetchSavedAggregatedView": "/cdvr/v1/aggregatedrecordings"
+	},
+	"cdvrConfig": {
+		"recordingsSort": "CHRONOLOGICAL_ASC",
+		"recordingsSortField": "TITLE",
+		"removeFavSavedGrouping": true,
+		"cdvrFetchLimit": 50,
+		"savedCdvrFetchLimit": 25,
+		"quotaPercentageConfig": {
+			"minimumPercentage": 80,
+			"maximumPercentage": 95
+		},
+		"sortOrderConfig": {
+			"seriesSort": [
+				"dateAdded",
+				"expiryDate",
+				"alphabeticalOrder",
+				"reverseAlphabeticalOrder",
+				"seasonWise"
+			],
+			"scheduledSort": [
+				"dateScheduled",
+				"alphabeticalOrder",
+				"reverseAlphabeticalOrder"
+			]
+		},
+		"enableSavedAggregatedView": true,
+		"enableProtectRecordings": true,
+		"recordExpireTimeLimit": 24,
+		"recordAddedTimeLimit": 24,
+		"pinEntry": false,
+		"payloadInDeleteSeriesRecordings": true,
+		"enableSeriesRecordingStatus": true
+	},
+		"cdvrBackwardCompatibility": {
+		"q4UrlConfig": false,
+		"usePOSTDelete": true
+	},
+	
+	"defaultLanguage": "en",
+	"subtitleLanguages": [
+		"en",
+		"fr",
+		"de"
+	],
+	"primarySubtitle": "en",
+	"secondarySubtitle": "en",
+	"audioLanguages": [
+		"en",
+		"fr",
+		"ru",
+		"ar",
+		"cs",
+		"sr",
+		"de",
+		"deu"
+	],
+	"audioLanguage": "en",
+	"dynamicAudioLanguageChange": false,
+	"predefinedEasChannelNumber": 9999,
+	"keepWatchingTimeoutInMillis": 86400000,
+	"tenantId": "nagra",
+	"dateFormat": "dd/MM/yyyy",
+	"timeFormat": "HH:mm",
+	"hour12Format": "h:mm AM",
+	"hour24Format": "HH:mm AM",
+	"subscriptionContactNumber": "561-708-1501",
+	"rails": {
+		"discover": {
+			"enable": true,
+			"defaultUILayoutId": "magazine_0",
+			"defaultPortraitLayoutId": "magazine_1",
+			"defaultLandscapeLayoutId": "content_strip_16x9",
+			"templateId": "950af6ab-093b-47b8-bec9-df87290cb561",
+			"templateName": "UMB1",
+			"isRailV2Enabled": false
+		}
+	},
+	"homescreenTemplateId": "id_of_discover_template",
+	"features": {
+		"SSM": true,
+		"PLAYBACK_UAV_REPORTING": true,
+		"PLAYBACK_ERROR_UAV_REPORTING": true,
+		"REPORT_USAGE_EVENT": true,
+		"REPORT_PLAYBACK_EVENT": true,
+		"INSIGHT_ANALYTICS": true,
+		"ENABLE_FIREBASE_ANALYTICS": true,
+		"RAILS": true,
+		"REMINDERS": true,
+		"GUARD_TIME": true,
+		"DCE": false
+	},
+	"videoPlayBack": {
+		"forwardseekTime": 10,
+		"rewindseekTime": 5,
+		"leadingSeekPaddingTime": 10,
+		"trailingseekPaddingTime": 10,
+		"catchUpEndBufferTime": 180000,
+		"startOverPlayBufferTime": 180000,
+		"switchLiveToStartOverOnResume": false,
+		"enablePlayerDebugLogs": false,
+		"togglePosterInPlayback": false,
+		"trickPlayControls": {
+			"disableFwdTrickSO": true,
+			"disableFwdTrickCU": true,
+			"disableFwdTrickBTV": false,
+			"disableFwdTrickVOD": true,
+			"disableFwdTrickNPVR": false
+		},
+		"PlayBackTrickModes": [
+			{
+				"speed": "2x",
+				"value": 2
+			},
+			{
+				"speed": "4x",
+				"value": 4
+			},
+			{
+				"speed": "8x",
+				"value": 8
+			},
+			{
+				"speed": "16x",
+				"value": 16
+			},
+			{
+				"speed": "32x",
+				"value": 32
+			},
+			{
+				"speed": "64x",
+				"value": 64
+			},
+			{
+				"speed": "128x",
+				"value": 128
+			},
+			{
+				"speed": "256x",
+				"value": 256
+			}
+		],
+		"playBackControls": {
+			"preview": {
+				"showPlayPause": true,
+				"showBuffering": true,
+				"showFfRw": true,
+				"showProgressBar": true,
+				"showStartEndTime": true,
+				"showVolumeButton": true,
+				"showMaximizeButton": true,
+				"seekTimeText": "10",
+				"topMenu": [
+					{
+						"name": "showLive",
+						"enabled": true,
+						"order": 1
+					},
+					{
+						"name": "showCamera",
+						"enabled": false,
+						"order": 2
+					},
+					{
+						"name": "showAudio",
+						"enabled": true,
+						"order": 3
+					},
+					{
+						"name": "showCaptions",
+						"enabled": true,
+						"order": 4
+					}
+				]
+			},
+			"fullScreen": {
+				"showPlayPause": true,
+				"showBuffering": true,
+				"showFfRw": true,
+				"showProgressBar": true,
+				"showStartEndTime": true,
+				"showVolumeButton": true,
+				"showMinimizeButton": true,
+				"topMenu": [
+					{
+						"name": "showLive",
+						"enabled": true,
+						"order": 1
+					},
+					{
+						"name": "showCamera",
+						"enabled": false,
+						"order": 2
+					},
+					{
+						"name": "showAudio",
+						"enabled": true,
+						"order": 3
+					},
+					{
+						"name": "showCaptions",
+						"enabled": true,
+						"order": 4
+					}
+				]
+			}
+		}
+	},
+	"toggleRecordingConfig": {
+		"record": [
+			{
+				"key": "NONE",
+				"value": "NONE"
+			},
+			{
+				"key": "JUST_THIS_EPISODE",
+				"value": "JUST_THIS_EPISODE"
+			},
+			{
+				"key": "ALL_NEW_EPISODES",
+				"value": "ALL_NEW_EPISODES"
+			},
+			{
+				"key": "ALL_EPISODES",
+				"value": "ALL_EPISODES"
+			}
+		],
+		"keep": [
+			{
+				"key": "NONE",
+				"value": 0
+			},
+			{
+				"key": "RECENT_N_EPISODES",
+				"value": 3
+			},
+			{
+				"key": "RECENT_N_EPISODES_1",
+				"value": 5
+			},
+			{
+				"key": "RECENT_N_EPISODES_2",
+				"value": 10
+			},
+			{
+				"key": "ALL_EPISODES",
+				"value": -1
+			}
+		]
+	},
+	"deviceInfoDetails": {
+		"bundleId": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "app[bundle]"
+		},
+		"language": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "content[language]"
+		},
+		"carrier": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[carrier]"
+		},
+		"connectionType": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[connectiontype]"
+		},
+		"brand": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[brand]"
+		},
+		"manufacturer": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[make]"
+		},
+		"model": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[model]"
+		},
+		"version": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[osv]"
+		},
+		"systemName": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[systemName]"
+		},
+		"userAgent": {
+			"isEnabled": false,
+			"defaultValue": "",
+			"key": "device[ua]"
+		},
+		"deviceType": {
+			"isEnabled": false,
+			"defaultValue": 4,
+			"devices": {
+				"personalComputer": 2,
+				"Tv": 3,
+				"Handset": 4,
+				"Tablet": 5,
+				"connectedDevice": 6,
+				"setOfBox": 7
+			},
+			"key": "device[devicetype]"
+		},
+		"deviceConnection": {
+			"isEnabled": false,
+			"key": "device[devicetype]"
+		},
+		"deviceDoNotTrack": {
+			"defaultValue": 1,
+			"isEnabled": false,
+			"key": "device[dnt]"
+		},
+		"deviceBaseOS": {
+			"defaultValue": "",
+			"isEnabled": false,
+			"key": "device[os]"
+		},
+		"devicelmt": {
+			"isEnabled": false,
+			"key": "device[lmt]"
+		},
+		"ssId": {
+			"isEnabled": false,
+			"key": "sid"
+		},
+		"iosSourceApp": {
+			"defaultValue": "test",
+			"isEnabled": false,
+			"key": "ios_skad[sourceapp]"
+		},
+		"debugging": {
+			"defaultValue": 0,
+			"isEnabled": false,
+			"key": "dbg"
+		},
+		"redirect": {
+			"defaultValue": true,
+			"isEnabled": true,
+			"key": "redirect"
+		},
+		"ios_atts": {
+			"isEnabled": false,
+			"key": "device[ios_atts]"
+		},
+		"us_privacy": {
+			"isEnabled": false,
+			"key": "us_privacy"
+		},
+		"Enable_DAI_BLACKOUT_ContentType": true
+	},
+	"fireBase": {
+		"analtyicsEventType": {
+			"SEARCH": "search",
+			"SCREEN_VIEW": "screen_view",
+			"CONTENT_SELECTION": "select_content",
+			"VIEW_EVENT": "view_event",
+			"FAV_CONTENT": "favorite_content",
+			"SET_REMINDER": "set_reminder",
+			"FAV_CHANNEL": "favorite_channel",
+			"IN_SCREEN_ENGAGEMENT": "in_screen_engagement",
+			"VIEW_PROMOTION": "view_promotion",
+			"SELECT_PROMOTION": "select_promotion"
+		},
+		"contentType": {
+			"contentTypevodLTCU": "Vod LTCU",
+			"contentTypevod": "Vod",
+			"contentTypeCatchup": "Catchup",
+			"contentTypeLive": "Live",
+			"contentTypeNPVR": "Recorded",
+			"contentTypeSeries": "Series"
+		},
+		"fbForegroundEnable": true,
+		"fbBackgroundEnable": true,
+		"fbDataMessaging": true,
+		"updateAppBasedOnCoreVersion": true,
+		"updateAppFetchFrequency": 43200000,
+		"nanoCdnUpdateFetchFrequency": 300000,
+		"updateAppConfigValue": {
+			"update_available": "false",
+			"force_update": "false",
+			"new_version": "0.14.10",
+			"app_store_url": "",
+			"message": {
+				"en-GB": {
+					"title": "Update Your App",
+					"message": "Update your app to get some important features"
+				}
+			}
+		},
+		"broadpeak": {
+			"nanoCdn": {
+				"enable": false,
+				"configuration": "--log-level 6 --size 24000000 --add-header Access-Control-Allow-Origin:* --rr-log-level 6  --rr-add-header Access-Control-Allow-Origin:* --rr-add-header Access-Control-Expose-Headers: Location",
+				"advancedConfiguration": "--rr-nano-addr 18081"
+			},
+			"smartLib": {
+				"enable": false,
+				"analyticsAddress": "",
+				"nanoCDNHost": "",
+				"broadpeakDomainNames": ""
+			}
+		}
+	},
+	
+	"clientTitle": "Claro tv+",
+	"insightConfig": {
+		"collectorUrl": "https://collector.insight-stats.com/api/v1/",
+		"deviceType": "stb",
+		"operatorId": "9c703ed0309f",
+		"samplingInterval": 30,
+		"reportingInterval": 300,
+		"appName": "ION"
+	}
+
+
+}
