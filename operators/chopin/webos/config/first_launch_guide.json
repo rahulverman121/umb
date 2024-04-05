@@ -1,0 +1,592 @@
+{
+	"ar": {
+		"firstUseGuide": [
+			{
+			  "headCopy": "[ar] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[ar] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[ar] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Rotate your phone to see more!",
+			  "supportiveCopy": "[ar] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPhone": [
+			{
+			  "headCopy": "[ar] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[ar] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[ar] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Rotate your phone to see more!",
+			  "supportiveCopy": "[ar] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPad": [
+			{
+			  "headCopy": "[ar] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[ar] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[ar] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[ar] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3_iPad",
+			  "supportiveBackgroundImage": "user_guide_background_3_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			}
+		  ],
+		  "firstUseGuide_Android_Tablet": [
+			{
+			  "headCopy": "[ar] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[ar] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[ar] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			},
+			{
+			  "headCopy": "[ar] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[ar] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "تسجيل الدخول",
+			  "learnMoreText": "[ar] Learn More"
+			}
+		  ]
+		},
+		"en": {
+		  "firstUseGuide": [
+			{
+			  "headCopy": "All of your TV channels are in your hand!",
+			  "supportiveCopy": "Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Rotate your phone to see more!",
+			  "supportiveCopy": "Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPhone": [
+			{
+			  "headCopy": "All of your TV channels are in your hand!",
+			  "supportiveCopy": "Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Rotate your phone to see more!",
+			  "supportiveCopy": "Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPad": [
+			{
+			  "headCopy": "All of your TV channels are in your hand!",
+			  "supportiveCopy": "Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3_iPad",
+			  "supportiveBackgroundImage": "user_guide_background_3_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			}
+		  ],
+		  "firstUseGuide_Android_Tablet": [
+			{
+			  "headCopy": "All of your TV channels are in your hand!",
+			  "supportiveCopy": "Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			},
+			{
+			  "headCopy": "Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "SIGN IN",
+			  "learnMoreText": "Learn More"
+			}
+		  ]
+		},
+		"es": {
+		  "firstUseGuide": [
+			{
+			  "headCopy": "[es] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[es] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[es] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Rotate your phone to see more!",
+			  "supportiveCopy": "[es] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPhone": [
+			{
+			  "headCopy": "[es] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[es] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[es] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Rotate your phone to see more!",
+			  "supportiveCopy": "[es] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPad": [
+			{
+			  "headCopy": "[es] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[es] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[es] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[es] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3_iPad",
+			  "supportiveBackgroundImage": "user_guide_background_3_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			}
+		  ],
+		  "firstUseGuide_Android_Tablet": [
+			{
+			  "headCopy": "[es] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[es] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[es] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			},
+			{
+			  "headCopy": "[es] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[es] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "REGISTRARSE",
+			  "learnMoreText": "[es] Learn More"
+			}
+		  ]
+		},
+		"fr": {
+		  "firstUseGuide": [
+			{
+			  "headCopy": "[fr] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[fr] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[fr] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Rotate your phone to see more!",
+			  "supportiveCopy": "[fr] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPhone": [
+			{
+			  "headCopy": "[fr] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[fr] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[fr] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Rotate your phone to see more!",
+			  "supportiveCopy": "[fr] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPad": [
+			{
+			  "headCopy": "[fr] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[fr] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[fr] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[fr] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3_iPad",
+			  "supportiveBackgroundImage": "user_guide_background_3_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			}
+		  ],
+		  "firstUseGuide_Android_Tablet": [
+			{
+			  "headCopy": "[fr] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[fr] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[fr] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			},
+			{
+			  "headCopy": "[fr] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[fr] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "CONNEXION",
+			  "learnMoreText": "[fr] Learn More"
+			}
+		  ]
+		},
+		"zh": {
+		  "firstUseGuide": [
+			{
+			  "headCopy": "[zh] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[zh] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[zh] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Rotate your phone to see more!",
+			  "supportiveCopy": "[zh] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPhone": [
+			{
+			  "headCopy": "[zh] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[zh] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[zh] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Rotate your phone to see more!",
+			  "supportiveCopy": "[zh] Watch full screen video or see more listings in the Guide.",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			}
+		  ],
+		  "firstUseGuide_iPad": [
+			{
+			  "headCopy": "[zh] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[zh] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[zh] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[zh] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3_iPad",
+			  "supportiveBackgroundImage": "user_guide_background_3_iPad",
+			  "learnMoreLink": "http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			}
+		  ],
+		  "firstUseGuide_Android_Tablet": [
+			{
+			  "headCopy": "[zh] All of your TV channels are in your hand!",
+			  "supportiveCopy": "[zh] Easily find your favourite shows on now!",
+			  "supportiveIllustrationImage": "user_guide_illustration_1",
+			  "supportiveBackgroundImage": "user_guide_background_1_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Watch your shows anytime and anywhere.",
+			  "supportiveCopy": "[zh] Download for on the go viewing!",
+			  "supportiveIllustrationImage": "user_guide_illustration_2",
+			  "supportiveBackgroundImage": "user_guide_background_2_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			},
+			{
+			  "headCopy": "[zh] Can't find your TV's Remote Control? No problem!",
+			  "supportiveCopy": "[zh] Use your tablet to control your TV!",
+			  "supportiveIllustrationImage": "user_guide_illustration_3",
+			  "supportiveBackgroundImage": "user_guide_background_3_tablet",
+			  "learnMoreLink": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
+			  "signInText": "登录",
+			  "learnMoreText": "[zh] Learn More"
+			}
+		  ]
+		}
+	  }  

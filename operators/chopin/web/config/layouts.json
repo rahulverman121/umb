@@ -1,0 +1,476 @@
+{
+	"magazine_0": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"heightLight": {
+			"scale": 1.2
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 905,
+					"height": 680,
+					"left": 0,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": true,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 932,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 932,
+					"top": 354,
+					"isTopPosition": false,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 1394,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 1394,
+					"top": 354,
+					"isTopPosition": false,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			}
+		]
+	},
+	"magazine_1": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"heightLight": {
+			"scale": 1.2
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 453,
+					"height": 680,
+					"left": 0,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": true,
+					"size": 1
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 477,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 582,
+					"height": 328,
+					"left": 477,
+					"top": 354,
+					"isTopPosition": false,
+					"isFullDimensionTile": false,
+					"size": 3
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 582,
+					"height": 328,
+					"left": 938,
+					"top": 0,
+					"size": 3,
+					"isTopPosition": true,
+					"isFullDimensionTile": false
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 1083,
+					"top": 354,
+					"size": 2,
+					"isTopPosition": false,
+					"isFullDimensionTile": false
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			}
+		]
+	},
+	"magazine_2": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"heightLight": {
+			"scale": 1.2
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 0,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 437,
+					"height": 328,
+					"left": 0,
+					"top": 354,
+					"isTopPosition": false,
+					"isFullDimensionTile": false,
+					"size": 2
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 582,
+					"height": 328,
+					"left": 461,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": false,
+					"size": 3
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 582,
+					"height": 328,
+					"left": 461,
+					"top": 354,
+					"isTopPosition": false,
+					"isFullDimensionTile": false,
+					"size": 3
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			},
+			{
+				"poster": {
+					"width": 453,
+					"height": 680,
+					"left": 1067,
+					"top": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": true,
+					"size": 1
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			}
+		]
+	},
+	"magazine_3": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"heightLight": {
+			"scale": 1.2
+		},
+		"slots": [
+			{
+				"poster": {
+					"height": 677,
+					"width": 451,
+					"top": 0,
+					"left": 0,
+					"isTopPosition": true,
+					"isFullDimensionTile": true,
+					"size": 1
+				},
+				"text": {
+					"fontSize": 28,
+					"width": 200,
+					"height": 30
+				}
+			}
+		]
+	},
+	"content_strip_2x3": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"heightLight": {
+			"scale": 1.2
+		},
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 264,
+					"height": 396
+				}
+			}
+		],
+		"isDynamicFontSize": false
+	},
+	"content_strip_2x3_4x3": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"heightLight": {
+			"scale": 1.2
+		},
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 264,
+					"height": 396
+				}
+			},
+			{
+				"poster": {
+					"width": 528,
+					"height": 396
+				}
+			}
+		],
+		"isDynamicFontSize": false
+	},
+	"content_strip_4x3": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"heightLight": {
+			"scale": 1.2
+		},
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 400,
+					"height": 300
+				}
+			}
+		],
+		"isDynamicFontSize": false
+	},
+	"content_strip_16x9": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"heightLight": {
+			"scale": 1.2
+		},
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 400,
+					"height": 225
+				}
+			}
+		],
+		"isDynamicFontSize": false
+	},
+	"content_strip_1x3": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"heightLight": {
+			"scale": 1.2
+		},
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 200,
+					"height": 600
+				}
+			}
+		],
+		"isDynamicFontSize": true
+	},
+	"billboard": {
+		"header": {
+			"fontSize": 24,
+			"fontWeight": "normal",
+			"marginBottom": 10
+		},
+		"gap": 24,
+		"heightLight": {
+			"scale": 1.2
+		},
+		"render": {
+			"initialItems": 10,
+			"aheadItems": 10
+		},
+		"slots": [
+			{
+				"poster": {
+					"width": 1600,
+					"height": 600
+				}
+			}
+		],
+		"isDynamicFontSize": true
+	}
+}

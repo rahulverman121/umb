@@ -1,0 +1,28 @@
+{
+	"colourTheme": {
+		"theme": "dark",
+		"primaryHighlightColor": "#009FDF",
+		"primaryBaseColor": "#000000",
+		"secondaryColor": "#FFFFFF",
+		"silverColor": "#c0c0c0",
+		"graphiteBlack": "#252929",
+		"mediumGrey": "#505050",
+		"lightGrey": "#808080",
+		"darkGrey": "#202020",
+		"overlayBlack": "#101010",
+		"slateGrey": "#21262A",
+		"spaceGrey": "#2a3139",
+		"redColor": "#FF2B2B",
+		"epgFocusBgColor": "#404040",
+		"epgFocusTextColor": "#FFFFFF",
+		"primaryFocusBgColor": "#404040",
+		"pillFocusBgColor": "#21262A",
+		"channelPosterBgColor": "rgba(128, 128, 128, 0.4)"
+	},
+	"customColourTheme": {
+		"surface": "#202020",
+		"progressBarBase": "#FFFFFF",
+		"actionItemBg": "#202020",
+		"trickPlayDisableColor": "#505050"
+	}
+}
