@@ -1,0 +1,20 @@
+{
+	"assetList": [
+		"icon_logo",
+		"splash_tv"
+	],
+	"epgList": [
+		{
+			"key": "epg_favedChan",
+			"value": "icon_ws_epg_favourite_on"
+		},
+		{
+			"key": "epg_filterCheckmark",
+			"value": "icon_select"
+		},
+		{
+			"key": "epgFilterIconSelected",
+			"value": "icon_ws_filter_selected"
+		}
+	]
+}

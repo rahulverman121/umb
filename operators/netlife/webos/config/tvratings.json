@@ -1,0 +1,27 @@
+{
+	"MPAA": {
+		"title": "menuTVRestrictions",
+		"ratings": [
+			{
+				"code": "G",
+				"category": "GENERAL"
+			},
+			{
+				"code": "PG",
+				"category": "FAMILY"
+			},
+			{
+				"code": "PG-13",
+				"category": "TEEN"
+			},
+			{
+				"code": "R",
+				"category": "MATURE"
+			},
+			{
+				"code": "NC-17",
+				"category": "MATURE"
+			}
+		]
+	}
+}

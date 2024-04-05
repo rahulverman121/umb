@@ -1,0 +1,42 @@
+{
+	"en": {
+		"locale": "en",
+		"userAgreementsTitle": "USER AGREEMENTS",
+		"agreeText": "AGREE",
+		"userAgreementText": "Please find our Terms and Conditions here:",
+		"userAgreementUrl": "https://tzand.cz/terms.html",
+		"ok": "OK"
+	},
+	"es": {
+		"locale": "es",
+		"userAgreementsTitle": "[es] USER AGREEMENTS",
+		"agreeText": "[es] AGREE",
+		"userAgreementText": "[es] Please find our Terms and Conditions here:",
+		"userAgreementUrl": "https://tzand.cz/terms.html",
+		"ok": "Ok"
+	},
+	"ar": {
+		"locale": "ar",
+		"userAgreementsTitle": "[ar] USER AGREEMENTS",
+		"agreeText": "[ar] AGREE",
+		"userAgreementText": "[ar] Please find our Terms and Conditions here:",
+		"userAgreementUrl": "https://tzand.cz/terms.html",
+		"ok": "موافق"
+	},
+	"fr": {
+		"locale": "fr",
+		"userAgreementsTitle": "[fr] USER AGREEMENTS",
+		"agreeText": "[fr] AGREE",
+		"userAgreementText": "[fr] Please find our Terms and Conditions here:",
+		"userAgreementUrl": "https://tzand.cz/terms.html",
+		"ok": "OK"
+	},
+	"zh": {
+		"locale": "zh",
+		"userAgreementsTitle": "[zh] USER AGREEMENTS",
+		"agreeText": "[zh] AGREE",
+		"userAgreementText": "[zh] Please find our Terms and Conditions here:",
+		"userAgreementUrl": "https://tzand.cz/terms.html",
+		"ok": "[zh] OK"
+	}
+}
